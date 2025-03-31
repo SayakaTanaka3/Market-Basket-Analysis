@@ -1,2 +1,8 @@
 # Market-Basket-Analysis
-Market Basket Analysis using Apriori 🛒📊 This project applies market basket analysis using the Apriori algorithm in Python to find item associations. Since my capstone project is confidential, I used public data to demonstrate the method. Key steps: data preprocessing, association rule mining with mlxtend, and extracting actionable insights.
+Market Basket Analysis with Apriori Algorithm 🛒📊
+This project applies market basket analysis using the Apriori algorithm in Python to identify associations between items. Due to confidentiality in my capstone project, I used publicly available data to demonstrate the methodology.
+
+Key steps:
+✅ Data preprocessing & transaction formatting
+✅ Association rule mining with mlxtend
+✅ Actionable insights for sales & recommendations
