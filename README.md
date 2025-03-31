@@ -4,5 +4,7 @@ This project applies market basket analysis using the Apriori algorithm in Pytho
 
 Key steps:
 ✅ Data preprocessing & transaction formatting
+
 ✅ Association rule mining with mlxtend
+
 ✅ Actionable insights for sales & recommendations
