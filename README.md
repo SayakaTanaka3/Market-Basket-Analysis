@@ -9,3 +9,6 @@ Key steps:
 ✅ Association rule mining with mlxtend
 
 ✅ Actionable insights for sales & recommendations
+
+Learning Resource:
+https://youtu.be/Z_uh1sf4g_8?si=809HSGwbojxbg5dI
